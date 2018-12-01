@@ -3,4 +3,8 @@
 # QPlayClone
 자바로 만든 큐플레이 아쿠아 게임 (미완성, 개발중지)
 
-데모 https://www.youtube.com/watch?v=8Vpihja-k2s
+# Require library
+- JLayer 1.0.1
+
+# Demo
+https://www.youtube.com/watch?v=8Vpihja-k2s
